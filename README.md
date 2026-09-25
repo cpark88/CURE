@@ -1,6 +1,6 @@
 <div align="center">
 
-# CURE
+# CURE (NeurIPS 2026)
 
 ### Coupled User-Grouped Reinforcement Learning for Cross-Domain Recommendation with Non-Overlapping Users
 
