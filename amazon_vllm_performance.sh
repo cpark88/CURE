@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 python evaluation_vllm.py --domain='Amazon_Fashion' --num_gpus=2 --stage='ours'
